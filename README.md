@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web-develpoing and block-chain
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me through mail - shrutiverma3008@gmail.com
+- 📫 Connect me through shrutiverma3008@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
