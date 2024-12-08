@@ -1,3 +1,5 @@
+![Blue and White Simple Designer LinkedIn Banner](https://github.com/user-attachments/assets/bcf62d4f-d350-4599-9e76-8dde90579fb8)
+
 - 👋 Hi, I’m @ShrutiVerma3008
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web-develpoing and block-chain
