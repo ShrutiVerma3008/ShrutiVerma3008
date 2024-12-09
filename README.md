@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ShrutiVerma3008
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning web-develpoing and block-chain
+- 🌱 I’m currently learning web-developing and block-chain
 - 💞️ I’m looking to collaborate on ...
 - 📫 Connect me through shrutiverma3008@gmail.com
 - 😄 Pronouns: 
