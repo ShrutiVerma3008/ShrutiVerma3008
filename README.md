@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @ShrutiVerma3008
 - 👀 I’m interested in problem solving, DSA, web development and exploring.
 - 🌱 I’m currently learning web-development and block-chain
-- 💞️ I’m looking to collaborate on web dev and blockchain
+- 💞️ I’m looking to collaborate on web dev and machine learing
+- 🗣️ Fluency in C++ and python 
 - 📫 Connect me through shrutiverma3008@gmail.com
 - 🔮 Future learning : AI-ML 
 - ⚡ Fun fact: Enjoy diving into the details
