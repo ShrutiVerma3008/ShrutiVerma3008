@@ -1,9 +1,9 @@
 ![Blue and White Simple Designer LinkedIn Banner](https://github.com/user-attachments/assets/bcf62d4f-d350-4599-9e76-8dde90579fb8)
 
 - 👋 Hi, I’m @ShrutiVerma3008
-- 👀 I’m interested in problem solving, DSA, web development and exploring.
-- 🌱 I’m currently learning web-development and block-chain
-- 💞️ I’m looking to collaborate on web dev and machine learing
+- 👀 I’m interested in problem solving, DSA, web development , EDA and exploring.
+- 🌱 I’m currently learning web-development and Machine Learnig 
+- 💞️ I’m looking to collaborate on web dev, Data Analyssi and machine learing
 - 🗣️ Fluency in C++ and python 
 - 📫 Connect me through shrutiverma3008@gmail.com
 - 🔮 Future learning : AI-ML 
