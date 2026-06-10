@@ -41,7 +41,7 @@ If you're here to collaborate, geek out over AI, or just say hi — my inbox is 
 ### 🚆 [Railway Document Intelligence System](https://github.com/ShrutiVerma3008/railway-doc-intelligence)
 > `Python` `PaddleOCR` `DocLayout-YOLO` `Ollama` `CUDA` `Pydantic`
 
-End-to-end AI pipeline for Indian Railway accident investigation reports. Dual-GPU OCR + layout detection + 5-pass agentic LLM extraction + comprehensive EDA on 10,000+ historical reports across 5 Railway zones. **94%+ accuracy** on unstructured damage/casualty fields. Processes 150-page reports in **under 8 minutes** offline. All findings compiled as research reports submitted to the Railway Safety Board.
+End-to-end AI pipeline for Indian Railway accident investigation reports. Dual-GPU OCR + layout detection + 5-pass agentic LLM extraction + comprehensive EDA on 100+ historical reports across All Railway zones. **94%+ accuracy** on unstructured damage/casualty fields. Processes 150-page reports in **under 8 minutes** offline. All findings compiled as research reports submitted to the Railway Safety Board.
 
 ---
 
@@ -62,7 +62,7 @@ Production RAG system over 4,000+ entities with fine-tuned Mistral 7B, multi-hop
 ### 📄 AI Resume Intelligence System
 > `React` `FastAPI` `OpenRouter` `LangChain` `GitIngest`
 
-ATS scoring + bullet rewriting + GitHub project integration. **500+ beta users · 92% ATS match improvement · 4.8/5 satisfaction**. Deployed on Vercel + Railway.
+ATS scoring + bullet rewriting + GitHub project integration. ** beta users · 92% ATS match improvement · 4.8/5 satisfaction**. Deployed on Vercel + Railway.
 
 ---
 
