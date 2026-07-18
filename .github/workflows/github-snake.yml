@@ -1,0 +1,33 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # Runs once a day at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake grass / dark & light contribution snake
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ShrutiVerma3008
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push generated snake to the "output" branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
