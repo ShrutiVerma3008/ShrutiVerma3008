@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShrutiVerma3008&label=Profile%20Views&color=7aa2f7&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShrutiVerma3008&label=Profile%20Views&color=7aa2f7&style=for-the-badge)](https://signal-port.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/ShrutiVerma3008?label=Followers&style=for-the-badge&color=bb9af7)](https://github.com/ShrutiVerma3008)
 ![Badge](https://img.shields.io/badge/Final%20Year-B.Tech%20AI%20%26%20DS-9ece6a?style=for-the-badge)
 ![Badge](https://img.shields.io/badge/CGPA-9.58%2F10-f7768e?style=for-the-badge)
