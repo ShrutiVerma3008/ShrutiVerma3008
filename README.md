@@ -65,9 +65,9 @@ currently_building: end-to-end document intelligence for Indian Railway
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Username-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Username-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vShruti/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Username-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/CODECHEF_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-Institutional%20Rank%20%232-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/GFG_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Institutional%20Rank%20%232-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shrutivermqbx)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Username-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/HACKERRANK_USERNAME)
 
 </div>
