@@ -1,148 +1,298 @@
-![Blue and White Simple Designer LinkedIn Banner](https://github.com/user-attachments/assets/bcf62d4f-d350-4599-9e76-8dde90579fb8)
+<div align="center">
 
-<h1 align="center">Shruti Verma</h1>
-<h3 align="center">AI & Data Science Engineer · Production LLM Systems · Document Intelligence · Knowledge Graphs</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Shruti%20Verma&fontSize=60&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20LLM%20Systems%20%7C%20Document%20Intelligence&descAlignY=58&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shruti-verma-437643291"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shrutiverma3008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://bsky.app/profile/srTv30"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/27865429"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=800&lines=Building+Production-Grade+LLM+%26+Agentic+Systems;94%25%2B+Accuracy+on+Real-World+Document+Intelligence;L%26T+CreaTech+%E2%80%9926+National+Finalist+(Top+8%2F15%2C000%2B);GraphRAG+%7C+Knowledge+Graphs+%7C+Multi-Agent+Orchestration" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShrutiVerma3008&label=Profile%20Views&color=7aa2f7&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/ShrutiVerma3008?label=Followers&style=for-the-badge&color=bb9af7)](https://github.com/ShrutiVerma3008)
+![Badge](https://img.shields.io/badge/Final%20Year-B.Tech%20AI%20%26%20DS-9ece6a?style=for-the-badge)
+![Badge](https://img.shields.io/badge/CGPA-9.58%2F10-f7768e?style=for-the-badge)
+
+</div>
 
 ---
 
-## 👋 Hey, I'm Shruti!
+## 🚀 About Me
 
-Okay so honestly? I didn't *choose* AI. AI kind of chose me. 😄
+```yaml
+name: Shruti Verma
+role: AI & Data Science Engineer (Final Year)
+education: B.Tech in AI & Data Science, Railway Specialization
+university: Gati Shakti Vishwavidyalaya, Vadodara, Gujarat (Aug 2023 – May 2027)
+cgpa: 9.58 / 10.0
+specialization:
+  - Production LLM Systems & Agentic Pipelines
+  - Document Intelligence (OCR + Layout + Extraction)
+  - Knowledge Graphs & GraphRAG
+  - Full-stack AI product deployment
+philosophy: >
+  Ship research-grade AI that survives contact with real, messy,
+  unstructured data — and measure it with real accuracy numbers,
+  not vibes.
+currently_building: end-to-end document intelligence for Indian Railway
+                     accident reports, in production with the Ministry of Railways
+```
 
-I started like everyone else — curious, clicking around, trying things. Then one day I was knee-deep in a document pipeline for Indian Railway accident reports, wrangling scanned Hindi-English PDFs at 2am, and I just thought... *wait, I actually love this?* That was it. No grand plan. Just a girl who fell headfirst into LLMs and never looked back.
+- 🔭 Currently working as an **AI Research & Development Intern, Ministry of Railways**
+- 🏆 **L&T CreaTech '26 National Finalist** — Top 8 of 15,000+ teams
+- 🥈 **GeeksforGeeks Institutional Rank #2**
+- 🎓 State Topper — Class X & XII
+- 📫 Reach me at **shruti.vermabtech23@gsv.ac.in**
 
-Right now I'm in my final year at Gati Shakti Vishwavidyalaya, building AI systems that actually *do* things — 94% accuracy on unstructured Railway reports, a construction optimizer that made it to the top 8 of 15,000+ teams at L&T CreaTech, a RAG system with real users giving it a 4.8/5. Not side projects sitting on a hard drive — things that run, things that matter.
+---
 
-Off the screen I'm the loudest person in the room (in a good way 😅), always laughing, always curious, always asking *but why does this work?* I live fully in the moment and I think that energy spills into everything I build.
+## 🏆 Achievements & Certifications
 
-If you're here to collaborate, geek out over AI, or just say hi — my inbox is always open. Let's build something cool. 🚀
+<div align="center">
 
-## 🏆 Highlights
-
-| | |
+| Achievement | Detail |
 |---|---|
-| 🥇 **L&T CreaTech '26 National Finalist** | Top 8 out of 15,000+ teams — FormOptiX construction optimizer |
-| 🚆 **Ministry of Railways AI Intern** | Document intelligence on 10,000+ accident reports across 5 Railway zones |
-| 📊 **94%+ Extraction Accuracy** | Multi-pass agentic LLM pipeline on unstructured Railway PDFs |
-| 🎓 **CGPA 9.58 / 10.0** | GFG Institutional Rank #2 · State Topper (Class X & XII) |
-| 👥 **500+ Production Users** | Across deployed AI platforms with 92% ATS improvement & 4.8/5 satisfaction |
+| 🥇 L&T CreaTech '26 National Finalist | Top 8 of 15,000+ teams (FormOptiX) |
+| 🥈 GFG Institutional Rank #2 | CGPA 9.58/10.0 |
+| 🎓 State Topper | Class X & XII |
+| 📜 NVIDIA Certification | Applications of AI for Predictive Maintenance |
+| 📜 Microsoft Certification | Azure Fundamentals |
+| 📜 Deloitte Certification | Data Analytics |
+
+</div>
+
+> Competitive programming profile widgets below need your handles — replace the bracketed placeholders with your usernames to activate:
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20Username-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/LEETCODE_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20Username-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/CODECHEF_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-Institutional%20Rank%20%232-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/GFG_USERNAME)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20Username-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/HACKERRANK_USERNAME)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
-### 🚆 [Railway Document Intelligence System](https://github.com/ShrutiVerma3008/railway-doc-intelligence)
-> `Python` `PaddleOCR` `DocLayout-YOLO` `Ollama` `CUDA` `Pydantic`
+<table>
+<tr>
+<td width="50%">
 
-End-to-end AI pipeline for Indian Railway accident investigation reports. Dual-GPU OCR + layout detection + 5-pass agentic LLM extraction + comprehensive EDA on 100+ historical reports across All Railway zones. **94%+ accuracy** on unstructured damage/casualty fields. Processes 150-page reports in **under 8 minutes** offline. All findings compiled as research reports submitted to the Railway Safety Board.
+### 🏗️ FormOptiX
+**Intelligent Formwork & BoQ Optimizer**
+`Python` `PuLP` `scikit-learn` `Streamlit`
 
----
+🏅 **L&T CreaTech '26 National Finalist** — Top 8 of 15,000+ teams
 
-### 🏗️ FormOptiX — L&T CreaTech '26 National Finalist
-> `Python` `PuLP` `scikit-learn` `DBSCAN` `Streamlit`
+- DBSCAN clustering for floor similarity detection
+- LP-based procurement optimizer
+- **15.3% cost reduction** vs zero-reuse baseline
+- **97% BoQ accuracy**
+- Advancing to production with L&T Infratech
 
-Intelligent formwork kitting & BoQ optimizer for large-scale construction. DBSCAN floor clustering + LP-based procurement optimizer delivered **15.3% cost reduction** vs baseline with **97% BoQ accuracy**. Advancing to production deployment with L&T Infratech.
+</td>
+<td width="50%">
 
----
+### 🧠 GraphRAG
+**Knowledge Graph + LLM Policy Intelligence**
+`PyTorch` `HuggingFace` `FAISS` `FastAPI` `Next.js`
 
-### 🧠 GraphRAG: Knowledge Graph + LLM Policy Intelligence
-> `PyTorch` `HuggingFace` `FAISS` `FastAPI` `Next.js` `Mistral 7B`
+- Production RAG fusing knowledge graphs with fine-tuned **Mistral 7B**
+- 4,000+ entities, multi-hop reasoning
+- **<200ms latency**
+- Conformal prediction for uncertainty quantification
+- SHAP explainability on every response
 
-Production RAG system over 4,000+ entities with fine-tuned Mistral 7B, multi-hop reasoning, conformal prediction for uncertainty quantification, and SHAP explainability on every response. **<200ms latency** end-to-end.
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📄 AI Resume Intelligence System
-> `React` `FastAPI` `OpenRouter` `LangChain` `GitIngest`
+`React` `FastAPI` `OpenRouter` `LangChain`
 
-ATS scoring + bullet rewriting + GitHub project integration. ** beta users · 92% ATS match improvement · 4.8/5 satisfaction**. Deployed on Vercel + Railway.
+- ATS scoring + bullet rewriting + GitHub integration
+- **150+ beta users**
+- **92% ATS match improvement**
+- **4.8/5** user satisfaction
+- Deployed on Vercel + Railway
+
+</td>
+<td width="50%">
+
+### 📉 RetentionAI
+**Churn Prediction Platform (Indian BFSI)**
+`FastAPI` `XGBoost` `SHAP` `BERT` `LangChain`
+
+- **AUC 0.91** churn prediction model
+- SHAP explainability + BERT emotion detection
+- Digital twin simulation for intervention impact
+- LangChain 4-module automated outreach generation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎤 AI Interview Preparation Platform
+`Next.js` `FastAPI` `Whisper API` `DBSCAN` `PostgreSQL`
+
+- Full-stack DSA mock interview platform
+- DBSCAN-powered problem recommendations
+- Whisper-based speech feedback
+- **85% week-over-week retention**
+
+</td>
+<td width="50%">
+
+### 🚚 Adaptive Multi-Agent Logistics Orchestration
+`PyTorch` `GNN` `Reinforcement Learning` `Transformers`
+
+- TFT forecasting + GNN routing + Transformer maintenance prediction
+- QMIX multi-agent reinforcement learning
+- **10× faster routing** vs OR-Tools
+- Uncertainty-aware dispatch
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔄 RetentionAI: Churn Prediction Platform
-> `FastAPI` `XGBoost` `SHAP` `BERT` `LangChain`
+## 🏗️ Engineering Experience
 
-Churn prediction for Indian BFSI sector. **AUC 0.91** + SHAP explainability + BERT emotion detection + digital twin simulation for intervention impact analysis.
+<details open>
+<summary><b>🚂 Ministry of Railways — AI Research & Development Intern</b> (May 2025 – Present)</summary>
+<br/>
+
+- Architected end-to-end document intelligence pipeline for Indian Railway accident reports using dual-GPU OCR (**PaddleOCR**), **DocLayout**, and 5-pass agentic LLM extraction
+- Achieved **94%+ accuracy** on unstructured damage/casualty/findings fields
+- Processes 150-page reports in **under 8 minutes** on RTX 4500 Ada + CUDA 12.1
+- Conducted EDA across 150+ historical accident reports spanning all Railway zones — identified temporal trends, cause clusters, and damage correlations
+- Built a **Pydantic** validation framework with rupee-amount cross-validation and confidence flags
+
+</details>
+
+<details>
+<summary><b>🏥 Indian Railways Institute of Disaster Management (IRIDM) — Web & AI Development Intern</b> (May – July 2025)</summary>
+<br/>
+
+- Built full-stack disaster management platform (**React, Node.js, PostgreSQL**) for institutional emergency response operations
+- Integrated **LangChain + FAISS** vector retrieval chatbot achieving **94% answer relevance** on 500+ policy documents
+- Deployed **Groq API** for sub-200ms inference on production network
+
+</details>
 
 ---
 
-### 🤖 Adaptive Multi-Agent Logistics Orchestration
-> `PyTorch` `GNN` `Reinforcement Learning` `Transformers` `Gymnasium`
+## ⚡ Engineering Stack
 
-TFT demand forecasting + GNN routing + Transformer maintenance prediction + QMIX multi-agent RL. **10× faster routing** vs OR-Tools with uncertainty-aware dispatch.
-
----
-
-## 💻 Tech Stack
+<div align="center">
 
 **Languages**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E7D32?style=for-the-badge)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**AI / ML / LLM**
+**LLM & RAG**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge)
 
-**Web & Backend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white)
-
-**DevOps & GPU**
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+**Web & DevOps**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA%2012.1-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShrutiVerma3008&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShrutiVerma3008&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiVerma3008&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ShrutiVerma3008&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=ShrutiVerma3008&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=ShrutiVerma3008&icon=0&color=0"/></a>
-</p>
+## 📈 GitHub Metrics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShrutiVerma3008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiVerma3008&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=ShrutiVerma3008&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShrutiVerma3008&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShrutiVerma3008&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+<!-- Contribution snake — requires the GitHub Action described below -->
+<img src="https://raw.githubusercontent.com/ShrutiVerma3008/ShrutiVerma3008/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+> 🐍 The snake animation renders once the GitHub Action below runs in your repo (`ShrutiVerma3008/ShrutiVerma3008`) — see **Setup Notes** at the bottom.
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-7aa2f7?style=flat-square)
+![RAG Systems](https://img.shields.io/badge/-RAG%20Systems-bb9af7?style=flat-square)
+![Multi--Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-9ece6a?style=flat-square)
+![System Design](https://img.shields.io/badge/-System%20Design-f7768e?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Distributed Computing](https://img.shields.io/badge/-Distributed%20Computing-e0af68?style=flat-square)
+![LLM Engineering](https://img.shields.io/badge/-LLM%20Engineering-7dcfff?style=flat-square)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-shruti.vermabtech23%40gsv.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.vermabtech23@gsv.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shruti--verma--437643291-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-verma-437643291)
+[![GitHub](https://img.shields.io/badge/GitHub-ShrutiVerma3008-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShrutiVerma3008)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Add%20Link-7aa2f7?style=for-the-badge&logo=vercel&logoColor=white)](https://PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬
+*"Ship it with numbers, not adjectives — 94% accuracy beats 'highly accurate' every time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
+
+</div>
