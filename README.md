@@ -25,14 +25,32 @@
 
 ## 🚀 About Me
 
-- 🔭 Building production **LLM & document-intelligence systems** for Indian Railways
-- 🧠 AI Research & Development Intern @ **Ministry of Railways**
-- 🏆 **L&T CreaTech '26** National Finalist — Top 8 of 15,000+ teams (FormOptiX)
-- 📈 200+ users across deployed AI platforms, 94%+ extraction accuracy pipelines
-- 🎓 B.Tech AI & Data Science (Railway Specialization) @ Gati Shakti Vishwavidyalaya — CGPA 9.58/10.0
-- 💬 Ask me about LLM fine-tuning, RAG, knowledge graphs, or GPU-accelerated document pipelines
+```yaml
+name: Shruti Verma
+role: AI & Data Science Engineer (Final Year)
+education: B.Tech in AI & Data Science, Railway Specialization
+university: Gati Shakti Vishwavidyalaya, Vadodara, Gujarat (Aug 2023 – May 2027)
+cgpa: 9.58 / 10.0
+specialization:
+  - Production LLM Systems & Agentic Pipelines
+  - Document Intelligence (OCR + Layout + Extraction)
+  - Knowledge Graphs & GraphRAG
+  - Full-stack AI product deployment
+philosophy: >
+  Ship research-grade AI that survives contact with real, messy,
+  unstructured data — and measure it with real accuracy numbers,
+  not vibes.
+currently_building: end-to-end document intelligence for Indian Railway
+                     accident reports, in production with the Ministry of Railways
+```
 
-<br/>
+- 🔭 Currently working as an **AI Research & Development Intern, Ministry of Railways**
+- 🏆 **L&T CreaTech '26 National Finalist** — Top 8 of 15,000+ teams
+- 🥈 **GeeksforGeeks Institutional Rank #2**
+- 🎓 State Topper — Class X & XII
+- 📫 Reach me at **shruti.vermabtech23@gsv.ac.in**
+
+---
 
 <div align="center">
 
@@ -63,21 +81,52 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+
+## ⚡ Engineering Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA_12.1-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Languages**
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E7D32?style=for-the-badge)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**LLM & RAG**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![GPT--4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+**Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0062B0?style=for-the-badge)
+
+**Web & DevOps**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA%2012.1-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+**Data Science**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </div>
 
