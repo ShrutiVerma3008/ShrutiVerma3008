@@ -1,0 +1,109 @@
+<svg width="990" height="200" viewBox="0 0 990 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad_light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="100%" stop-color="#f6ecff"/>
+    </linearGradient>
+    <linearGradient id="shineGrad_light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0" transform="translate(16,34) scale(0.85)">
+          <animate attributeName="opacity" from="0" to="1" begin="0.40s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="16 34" to="16 16" begin="0.40s" dur="0.45s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <animateTransform attributeName="transform" type="scale" from="0.85" to="1" begin="0.40s" dur="0.45s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <clipPath id="cellClip_light_0"><rect x="0" y="0" width="148" height="168" rx="16"/></clipPath>
+          <rect x="0" y="0" width="148" height="168" rx="16" fill="url(#bgGrad_light)" stroke="#c98a00" stroke-opacity="0.7"/>
+          <g clip-path="url(#cellClip_light_0)">
+            <circle cx="74.0" cy="58" r="30" fill="none" stroke="#c98a00" stroke-width="3" opacity="0.55">
+              <animate attributeName="r" values="30;33;30" dur="2.4s" begin="0.90s" repeatCount="indefinite"/>
+            </circle>
+            <text x="74.0" y="68" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="20" font-weight="800" fill="#c98a00">SSS</text>
+            <text x="74.0" y="120" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="12.5" font-weight="600" fill="#3a1a5c">Stars</text>
+            <rect x="-148" y="0" width="74" height="168" fill="url(#shineGrad_light)" transform="skewX(-20)">
+              <animateTransform attributeName="transform" type="translate" values="0 0;355 0" dur="3.6s" begin="1.60s" repeatCount="indefinite" additive="sum"/>
+            </rect>
+          </g>
+        </g><g opacity="0" transform="translate(178,34) scale(0.85)">
+          <animate attributeName="opacity" from="0" to="1" begin="0.62s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="178 34" to="178 16" begin="0.62s" dur="0.45s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <animateTransform attributeName="transform" type="scale" from="0.85" to="1" begin="0.62s" dur="0.45s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <clipPath id="cellClip_light_1"><rect x="0" y="0" width="148" height="168" rx="16"/></clipPath>
+          <rect x="0" y="0" width="148" height="168" rx="16" fill="url(#bgGrad_light)" stroke="#c98a00" stroke-opacity="0.7"/>
+          <g clip-path="url(#cellClip_light_1)">
+            <circle cx="74.0" cy="58" r="30" fill="none" stroke="#c98a00" stroke-width="3" opacity="0.55">
+              <animate attributeName="r" values="30;33;30" dur="2.4s" begin="1.12s" repeatCount="indefinite"/>
+            </circle>
+            <text x="74.0" y="68" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="20" font-weight="800" fill="#c98a00">S</text>
+            <text x="74.0" y="120" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="12.5" font-weight="600" fill="#3a1a5c">Commits</text>
+            <rect x="-148" y="0" width="74" height="168" fill="url(#shineGrad_light)" transform="skewX(-20)">
+              <animateTransform attributeName="transform" type="translate" values="0 0;355 0" dur="3.6s" begin="2.12s" repeatCount="indefinite" additive="sum"/>
+            </rect>
+          </g>
+        </g><g opacity="0" transform="translate(340,34) scale(0.85)">
+          <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="340 34" to="340 16" begin="0.84s" dur="0.45s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <animateTransform attributeName="transform" type="scale" from="0.85" to="1" begin="0.84s" dur="0.45s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <clipPath id="cellClip_light_2"><rect x="0" y="0" width="148" height="168" rx="16"/></clipPath>
+          <rect x="0" y="0" width="148" height="168" rx="16" fill="url(#bgGrad_light)" stroke="#ff2d95" stroke-opacity="0.7"/>
+          <g clip-path="url(#cellClip_light_2)">
+            <circle cx="74.0" cy="58" r="30" fill="none" stroke="#ff2d95" stroke-width="3" opacity="0.55">
+              <animate attributeName="r" values="30;33;30" dur="2.4s" begin="1.34s" repeatCount="indefinite"/>
+            </circle>
+            <text x="74.0" y="68" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="20" font-weight="800" fill="#ff2d95">A+</text>
+            <text x="74.0" y="120" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="12.5" font-weight="600" fill="#3a1a5c">Followers</text>
+            <rect x="-148" y="0" width="74" height="168" fill="url(#shineGrad_light)" transform="skewX(-20)">
+              <animateTransform attributeName="transform" type="translate" values="0 0;355 0" dur="3.6s" begin="2.64s" repeatCount="indefinite" additive="sum"/>
+            </rect>
+          </g>
+        </g><g opacity="0" transform="translate(502,34) scale(0.85)">
+          <animate attributeName="opacity" from="0" to="1" begin="1.06s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="502 34" to="502 16" begin="1.06s" dur="0.45s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <animateTransform attributeName="transform" type="scale" from="0.85" to="1" begin="1.06s" dur="0.45s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <clipPath id="cellClip_light_3"><rect x="0" y="0" width="148" height="168" rx="16"/></clipPath>
+          <rect x="0" y="0" width="148" height="168" rx="16" fill="url(#bgGrad_light)" stroke="#a8703c" stroke-opacity="0.7"/>
+          <g clip-path="url(#cellClip_light_3)">
+            <circle cx="74.0" cy="58" r="30" fill="none" stroke="#a8703c" stroke-width="3" opacity="0.55">
+              <animate attributeName="r" values="30;33;30" dur="2.4s" begin="1.56s" repeatCount="indefinite"/>
+            </circle>
+            <text x="74.0" y="68" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="20" font-weight="800" fill="#a8703c">A</text>
+            <text x="74.0" y="120" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="12.5" font-weight="600" fill="#3a1a5c">Repositories</text>
+            <rect x="-148" y="0" width="74" height="168" fill="url(#shineGrad_light)" transform="skewX(-20)">
+              <animateTransform attributeName="transform" type="translate" values="0 0;355 0" dur="3.6s" begin="3.16s" repeatCount="indefinite" additive="sum"/>
+            </rect>
+          </g>
+        </g><g opacity="0" transform="translate(664,34) scale(0.85)">
+          <animate attributeName="opacity" from="0" to="1" begin="1.28s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="664 34" to="664 16" begin="1.28s" dur="0.45s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <animateTransform attributeName="transform" type="scale" from="0.85" to="1" begin="1.28s" dur="0.45s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <clipPath id="cellClip_light_4"><rect x="0" y="0" width="148" height="168" rx="16"/></clipPath>
+          <rect x="0" y="0" width="148" height="168" rx="16" fill="url(#bgGrad_light)" stroke="#ff2d95" stroke-opacity="0.7"/>
+          <g clip-path="url(#cellClip_light_4)">
+            <circle cx="74.0" cy="58" r="30" fill="none" stroke="#ff2d95" stroke-width="3" opacity="0.55">
+              <animate attributeName="r" values="30;33;30" dur="2.4s" begin="1.78s" repeatCount="indefinite"/>
+            </circle>
+            <text x="74.0" y="68" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="20" font-weight="800" fill="#ff2d95">A+</text>
+            <text x="74.0" y="120" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="12.5" font-weight="600" fill="#3a1a5c">PRs Merged</text>
+            <rect x="-148" y="0" width="74" height="168" fill="url(#shineGrad_light)" transform="skewX(-20)">
+              <animateTransform attributeName="transform" type="translate" values="0 0;355 0" dur="3.6s" begin="3.68s" repeatCount="indefinite" additive="sum"/>
+            </rect>
+          </g>
+        </g><g opacity="0" transform="translate(826,34) scale(0.85)">
+          <animate attributeName="opacity" from="0" to="1" begin="1.50s" dur="0.4s" fill="freeze"/>
+          <animateTransform attributeName="transform" type="translate" from="826 34" to="826 16" begin="1.50s" dur="0.45s" fill="freeze" additive="replace" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <animateTransform attributeName="transform" type="scale" from="0.85" to="1" begin="1.50s" dur="0.45s" fill="freeze" additive="sum" calcMode="spline" keySplines="0.25 0.9 0.4 1"/>
+          <clipPath id="cellClip_light_5"><rect x="0" y="0" width="148" height="168" rx="16"/></clipPath>
+          <rect x="0" y="0" width="148" height="168" rx="16" fill="url(#bgGrad_light)" stroke="#8a8a99" stroke-opacity="0.7"/>
+          <g clip-path="url(#cellClip_light_5)">
+            <circle cx="74.0" cy="58" r="30" fill="none" stroke="#8a8a99" stroke-width="3" opacity="0.55">
+              <animate attributeName="r" values="30;33;30" dur="2.4s" begin="2.00s" repeatCount="indefinite"/>
+            </circle>
+            <text x="74.0" y="68" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="20" font-weight="800" fill="#8a8a99">AAA</text>
+            <text x="74.0" y="120" text-anchor="middle" font-family="'Trebuchet MS',Verdana,sans-serif" font-size="12.5" font-weight="600" fill="#3a1a5c">Experience</text>
+            <rect x="-148" y="0" width="74" height="168" fill="url(#shineGrad_light)" transform="skewX(-20)">
+              <animateTransform attributeName="transform" type="translate" values="0 0;355 0" dur="3.6s" begin="4.20s" repeatCount="indefinite" additive="sum"/>
+            </rect>
+          </g>
+        </g>
+</svg>
